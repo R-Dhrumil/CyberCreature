@@ -83,3 +83,16 @@ https://youtu.be/g1vx_dPY1dM
 Ensure you have a valid LangFlow APP_TOKEN before running the application.
 
 The API token is stored securely in the .env file and accessed through python-dotenv.
+
+## Description:
+This repository contains the project submission by Team CyberCreature for the Super Mind Hackathon. The hackathon, organized to foster creativity and innovation, challenged participants to develop solutions addressing real-world problems.
+
+About the Team:
+
+Team Name: CyberCreature
+
+Team Members:
+
+Kunj(Leader) https://github.com/KunjCode
+
+Dhrumil https://github.com/R-Dhrumil
